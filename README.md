@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## O projeto não subiu a API KEY obtida no Google Maps Plataform, caso queiram testar o projeto solicitem a api key e criem um arquivo dentro do projeto chamado .env e coloquem a API KEY la dentro e coloquem esse comando:
+### O projeto não subiu a API KEY obtida no Google Maps Plataform, caso queiram testar o projeto solicitem a api key e criem um arquivo dentro do projeto chamado .env e coloquem a API KEY la dentro e coloquem esse comando:
 
 REACT_APP_GOOGLE_API_KEY=".........." após o sinal de = colquem a api key sem aspas.
 
